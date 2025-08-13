@@ -34,3 +34,7 @@ Place your road images in the `data` folder. Run the program from the `build` di
 ```
 
 Outputs are saved alongside the inputs with the `_lanes.png` suffix (e.g., `data/000010_lanes.png`).
+
+## Example Output
+
+![Lane Detection Output](data/000010_lanes.png)
